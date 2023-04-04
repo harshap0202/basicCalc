@@ -8,7 +8,6 @@ public class BasicCalc {
 		int exit = 0;
 		while (exit!= 4) 
 	{
-		
 		System.out.println("Select an option");
 		System.out.println("1. Addition");
 		System.out.println("2. Subtraction");
@@ -47,7 +46,6 @@ public class BasicCalc {
 			break;
 			}	
 		}
-		System.out.println("Session Terminated");
+			System.out.println("Session Terminated");
 	}
-
 }
